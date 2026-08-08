@@ -1,6 +1,6 @@
 # ==============================================================================
 # requirements.txt
-# Procesamiento Avanzado de Sentinel-2 para Bs-T — Predio Santa Helena
+# Procesamiento Avanzado de Sentinel-2 para Bs-T
 # Versión: v1.0.0-validation
 # Plataforma: Google Colab + Google Earth Engine (Python API)
 # ==============================================================================
