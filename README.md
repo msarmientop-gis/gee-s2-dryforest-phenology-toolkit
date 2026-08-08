@@ -19,7 +19,9 @@
 
 ## 📖 Descripción
 
-Script multimodal para el procesamiento de imágenes **Sentinel-2 Level-2A (Surface Reflectance, Harmonized)** como insumo de apoyo para la interpretación y análisis de cobertura vegetal en ecosistemas de **Bosque Seco Tropical (Bs-T)** en el municipio de **San Juan Nepomuceno, Bolívar, Colombia**, como parte del proceso de actualización de cobertura de la tierra para el **Predio Santa Helena** de la **Fundación Proyecto Tití**, ejecutado por la **Fundación Ecosistemas Secos de Colombia (FESC)**.
+Script multimodal para el procesamiento de imágenes **Sentinel-2 Level-2A (Surface Reflectance, Harmonized)** como insumo de apoyo para la interpretación y análisis de cobertura vegetal en ecosistemas de **Bosque Seco Tropical (Bs-T)**. 
+
+Este *toolkit* ha sido desarrollado y estandarizado para la **Fundación Ecosistemas Secos de Colombia (FESC)**. Aunque su arquitectura es paramétrica y escalable a cualquier polígono mediante el ajuste del Área de Interés (AOI), incluye por defecto las geometrías y calibraciones utilizadas para el monitoreo del Predio Santa Helena (Fundación Proyecto Tití) en el Caribe colombiano, sirviendo como caso de estudio demostrativo.
 
 ### Problema que resuelve
 

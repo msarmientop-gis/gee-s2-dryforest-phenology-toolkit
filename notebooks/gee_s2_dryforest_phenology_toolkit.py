@@ -2,7 +2,7 @@
 """
 ================================================================================
 PROCESAMIENTO AVANZADO DE IMÁGENES SENTINEL-2 PARA ANÁLISIS DE BOSQUE SECO
-TROPICAL (Bs-T) — PREDIO SANTA HELENA, FUNDACIÓN PROYECTO TITÍ
+TROPICAL (Bs-T) — TOOLKIT MULTIMODAL
 ================================================================================
 
 Autor:          Geog. Mauricio Sarmiento Pancho (msarmientop@unal.edu.co)
@@ -16,8 +16,12 @@ Descripción:
     Script multimodal para el procesamiento de imágenes Sentinel-2 Level-2A
     (Surface Reflectance, Harmonized) como insumo de apoyo para la
     interpretación y análisis de cobertura vegetal en ecosistemas de Bosque
-    Seco Tropical (Bs-T) en el municipio de San Juan Nepomuceno, Bolívar,
-    Colombia.
+    Seco Tropical (Bs-T).
+
+    Desarrollado para la Fundación Ecosistemas Secos de Colombia (FESC).
+    El script es paramétrico y escalable a cualquier región ajustando el 
+    parámetro AOI, pero incluye por defecto las geometrías del Predio 
+    Santa Helena (Caribe colombiano) como caso de estudio demostrativo.
 
     Implementa tres flujos de análisis configurables:
       1. EXPORTAR_IMAGEN: Exportación de escena única (mejor cobertura) o
