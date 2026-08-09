@@ -121,7 +121,7 @@ A continuación, se presenta la salida espacial generada por la ejecución del s
 <details>
   <summary>🔍 Ver Uso Resultados en ArcGis Pro 3.4.2 d (Clic para expandir)</summary>
   
-  ![Uso Resultados en ArcGis Pro 3.4.2 d](outputs/Captura%20de%20pantalla%20Seccion_3.pngoutputs/Captura%20de%20pantalla%20VisualizacionUso_ArcGisPro342_5.png)
+  ![Uso Resultados en ArcGis Pro 3.4.2 d](outputs/Captura%20de%20pantalla%20VisualizacionUso_ArcGisPro342_5.png)
 </details>|
 ---
 
