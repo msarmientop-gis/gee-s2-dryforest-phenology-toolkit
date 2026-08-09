@@ -49,79 +49,79 @@ A continuación, se presenta la salida espacial generada por la ejecución del s
 <details>
   <summary>🔍 Ver Resultados Ejecución Sección 1 y 2 (Clic para expandir)</summary>
   
-  ![Ejecución Sección 1 y 2](outputs/Captura de pantalla Seccion_1_2.png)
+  ![Ejecución Sección 1 y 2](outputs/Captura%20de%20pantalla%20Seccion_1_2.png)
 </details>
 
 <details>
   <summary>🔍 Ver Resultados Ejecución Sección 3 (Clic para expandir)</summary>
   
-  ![Ejecución Sección 3](outputs/Captura de pantalla Seccion_3.png)
+  ![Ejecución Sección 3](outputs/Captura%20de%20pantalla%20Seccion_3.png)
 </details>
 
 <details>
   <summary>🔍 Ver Resultados Ejecución Sección 4 (Clic para expandir)</summary>
   
-  ![Ejecución Sección 4](outputs/Captura de pantalla Seccion_4.png)
+  ![Ejecución Sección 4](outputs/Captura%20de%20pantalla%20Seccion_4.png)
 </details>
 
 <details>
   <summary>🔍 Ver Resultados Ejecución Sección 5 (Clic para expandir)</summary>
   
-  ![Ejecución Sección 5](outputs/Captura de pantalla Seccion_5.png)
+  ![Ejecución Sección 5](outputs/Captura%20de%20pantalla%20Seccion_5.png)
 </details>
 
 <details>
   <summary>🔍 Ver Resultados Ejecución Sección 6 (Clic para expandir)</summary>
   
-  ![Ejecución Sección 6](outputs/Captura de pantalla Seccion_6.png)
+  ![Ejecución Sección 6](outputs/Captura%20de%20pantalla%20Seccion_6.png)
 </details>
 
 <details>
   <summary>🔍 Ver Resultados Ejecución Sección 7(Clic para expandir)</summary>
   
-  ![Ejecución Sección 7](outputs/Captura de pantalla Seccion_7.png)
+  ![Ejecución Sección 7](outputs/Captura%20de%20pantalla%20Seccion_7.png)
 </details>
 
 <details>
   <summary>🔍 Ver Resultados Ejecución Sección 7 - Mapa (Clic para expandir)</summary>
   
-  ![Ejecución Sección 7 - Mapa](outputs/Captura de pantalla Seccion_7b.png)
+  ![Ejecución Sección 7 - Mapa](outputs/Captura%20de%20pantalla%20Seccion_7b.png)
 </details>
 
 <details>
   <summary>🔍 Ver Resultados Ejecución Sección 8 (Clic para expandir)</summary>
   
-  ![Ejecución Sección 8](outputs/Captura de pantalla Seccion_8.png)
+  ![Ejecución Sección 8](outputs/Captura%20de%20pantalla%20Seccion_8.png)
 </details>
 
 <details>
   <summary>🔍 Ver Resultados Ejecución Sección 8 en GEE (Clic para expandir)</summary>
   
-  ![Ejecución Sección 8 en GEE](outputs/Captura de pantalla Seccion_8_GEE.png)
+  ![Ejecución Sección 8 en GEE](outputs/Captura%20de%20pantalla%20Seccion_8_GEE.png)
 </details>
 
 <details>
   <summary>🔍 Ver Uso Resultados en ArcGis Pro 3.4.2 a (Clic para expandir)</summary>
   
-  ![Uso Resultados en ArcGis Pro 3.4.2 a](outputs/Captura de pantalla VisualizacionUso_ArcGisPro342_1.png)
+  ![Uso Resultados en ArcGis Pro 3.4.2 a](outputs/Captura%20de%20pantalla%20VisualizacionUso_ArcGisPro342_1.png)
 </details>
 
 <details>
   <summary>🔍 Ver Uso Resultados en ArcGis Pro 3.4.2 b (Clic para expandir)</summary>
   
-  ![Uso Resultados en ArcGis Pro 3.4.2 b](outputs/Captura de pantalla VisualizacionUso_ArcGisPro342_2.png)
+  ![Uso Resultados en ArcGis Pro 3.4.2 b](outputs/Captura%20de%20pantalla%20VisualizacionUso_ArcGisPro342_2.png)
 </details>
 
 <details>
   <summary>🔍 Ver Uso Resultados en ArcGis Pro 3.4.2 c (Clic para expandir)</summary>
   
-  ![Uso Resultados en ArcGis Pro 3.4.2 c](outputs/Captura de pantalla VisualizacionUso_ArcGisPro342_4.png)
+  ![Uso Resultados en ArcGis Pro 3.4.2 c](outputs/Captura%20de%20pantalla%20VisualizacionUso_ArcGisPro342_4.png)
 </details>
 
 <details>
   <summary>🔍 Ver Uso Resultados en ArcGis Pro 3.4.2 d (Clic para expandir)</summary>
   
-  ![Uso Resultados en ArcGis Pro 3.4.2 d](outputs/Captura de pantalla Seccion_3.pngoutputs/Captura de pantalla VisualizacionUso_ArcGisPro342_5.png)
+  ![Uso Resultados en ArcGis Pro 3.4.2 d](outputs/Captura%20de%20pantalla%20Seccion_3.pngoutputs/Captura%20de%20pantalla%20VisualizacionUso_ArcGisPro342_5.png)
 </details>|
 ---
 
