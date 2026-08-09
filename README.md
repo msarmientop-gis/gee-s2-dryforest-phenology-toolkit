@@ -42,6 +42,89 @@ El monitoreo del Bosque Seco Tropical requiere una aproximación espectral multi
 
 ---
 
+## 🗺️ Visualización de Resultados
+
+A continuación, se presenta la salida espacial generada por la ejecución del script en Google Earth Engine:
+
+<details>
+  <summary>🔍 Ver Resultados Ejecución Sección 1 y 2 (Clic para expandir)</summary>
+  
+  ![Ejecución Sección 1 y 2](outputs/Captura de pantalla Seccion_1_2.png)
+</details>
+
+<details>
+  <summary>🔍 Ver Resultados Ejecución Sección 3 (Clic para expandir)</summary>
+  
+  ![Ejecución Sección 3](outputs/Captura de pantalla Seccion_3.png)
+</details>
+
+<details>
+  <summary>🔍 Ver Resultados Ejecución Sección 4 (Clic para expandir)</summary>
+  
+  ![Ejecución Sección 4](outputs/Captura de pantalla Seccion_4.png)
+</details>
+
+<details>
+  <summary>🔍 Ver Resultados Ejecución Sección 5 (Clic para expandir)</summary>
+  
+  ![Ejecución Sección 5](outputs/Captura de pantalla Seccion_5.png)
+</details>
+
+<details>
+  <summary>🔍 Ver Resultados Ejecución Sección 6 (Clic para expandir)</summary>
+  
+  ![Ejecución Sección 6](outputs/Captura de pantalla Seccion_6.png)
+</details>
+
+<details>
+  <summary>🔍 Ver Resultados Ejecución Sección 7(Clic para expandir)</summary>
+  
+  ![Ejecución Sección 7](outputs/Captura de pantalla Seccion_7.png)
+</details>
+
+<details>
+  <summary>🔍 Ver Resultados Ejecución Sección 7 - Mapa (Clic para expandir)</summary>
+  
+  ![Ejecución Sección 7 - Mapa](outputs/Captura de pantalla Seccion_7b.png)
+</details>
+
+<details>
+  <summary>🔍 Ver Resultados Ejecución Sección 8 (Clic para expandir)</summary>
+  
+  ![Ejecución Sección 8](outputs/Captura de pantalla Seccion_8.png)
+</details>
+
+<details>
+  <summary>🔍 Ver Resultados Ejecución Sección 8 en GEE (Clic para expandir)</summary>
+  
+  ![Ejecución Sección 8 en GEE](outputs/Captura de pantalla Seccion_8_GEE.png)
+</details>
+
+<details>
+  <summary>🔍 Ver Uso Resultados en ArcGis Pro 3.4.2 a (Clic para expandir)</summary>
+  
+  ![Uso Resultados en ArcGis Pro 3.4.2 a](outputs/Captura de pantalla VisualizacionUso_ArcGisPro342_1.png)
+</details>
+
+<details>
+  <summary>🔍 Ver Uso Resultados en ArcGis Pro 3.4.2 b (Clic para expandir)</summary>
+  
+  ![Uso Resultados en ArcGis Pro 3.4.2 b](outputs/Captura de pantalla VisualizacionUso_ArcGisPro342_2.png)
+</details>
+
+<details>
+  <summary>🔍 Ver Uso Resultados en ArcGis Pro 3.4.2 c (Clic para expandir)</summary>
+  
+  ![Uso Resultados en ArcGis Pro 3.4.2 c](outputs/Captura de pantalla VisualizacionUso_ArcGisPro342_4.png)
+</details>
+
+<details>
+  <summary>🔍 Ver Uso Resultados en ArcGis Pro 3.4.2 d (Clic para expandir)</summary>
+  
+  ![Uso Resultados en ArcGis Pro 3.4.2 d](outputs/Captura de pantalla Seccion_3.pngoutputs/Captura de pantalla VisualizacionUso_ArcGisPro342_5.png)
+</details>|
+---
+
 ## ⚙️ Prerrequisitos
 
 1. **Cuenta de Google Earth Engine** autenticada y con acceso aprobado ([signup.earthengine.google.com](https://signup.earthengine.google.com/))
